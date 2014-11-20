@@ -6400,26 +6400,44 @@ Source: http://www.osram.convergy.de/ ... Lb_q993.pdf</description>
 <text x="-12.7" y="-2.54" size="1.27" layer="25">&gt;VALUE</text>
 </package>
 <package name="CASTELLATION-18-0.1">
-<pad name="1" x="-21.59" y="0" drill="1.016" diameter="1.778" shape="square"/>
-<pad name="2" x="-19.05" y="0" drill="1.016" diameter="1.778" shape="square"/>
-<pad name="3" x="-16.51" y="0" drill="1.016" diameter="1.778" shape="square"/>
-<pad name="4" x="-13.97" y="0" drill="1.016" diameter="1.778" shape="square"/>
-<pad name="5" x="-11.43" y="0" drill="1.016" diameter="1.778" shape="square"/>
-<pad name="6" x="-8.89" y="0" drill="1.016" diameter="1.778" shape="square"/>
-<pad name="7" x="-6.35" y="0" drill="1.016" diameter="1.778" shape="square"/>
-<pad name="8" x="-3.81" y="0" drill="1.016" diameter="1.778" shape="square"/>
-<pad name="9" x="-1.27" y="0" drill="1.016" diameter="1.778" shape="square"/>
-<pad name="10" x="1.27" y="0" drill="1.016" diameter="1.778" shape="square"/>
+<pad name="1" x="-21.59" y="0" drill="1.016" diameter="1.778"/>
+<pad name="2" x="-19.05" y="0" drill="1.016" diameter="1.778"/>
+<pad name="3" x="-16.51" y="0" drill="1.016" diameter="1.778"/>
+<pad name="4" x="-13.97" y="0" drill="1.016" diameter="1.778"/>
+<pad name="5" x="-11.43" y="0" drill="1.016" diameter="1.778"/>
+<pad name="6" x="-8.89" y="0" drill="1.016" diameter="1.778"/>
+<pad name="7" x="-6.35" y="0" drill="1.016" diameter="1.778"/>
+<pad name="8" x="-3.81" y="0" drill="1.016" diameter="1.778"/>
+<pad name="9" x="-1.27" y="0" drill="1.016" diameter="1.778"/>
+<pad name="10" x="1.27" y="0" drill="1.016" diameter="1.778"/>
 <text x="-22.86" y="1.27" size="1.27" layer="25">&gt;NAME</text>
 <text x="-22.86" y="-2.54" size="1.27" layer="25">&gt;VALUE</text>
-<pad name="11" x="3.81" y="0" drill="1.016" diameter="1.778" shape="square"/>
-<pad name="12" x="6.35" y="0" drill="1.016" diameter="1.778" shape="square"/>
-<pad name="13" x="8.89" y="0" drill="1.016" diameter="1.778" shape="square"/>
-<pad name="14" x="11.43" y="0" drill="1.016" diameter="1.778" shape="square"/>
-<pad name="15" x="13.97" y="0" drill="1.016" diameter="1.778" shape="square"/>
-<pad name="16" x="16.51" y="0" drill="1.016" diameter="1.778" shape="square"/>
-<pad name="17" x="19.05" y="0" drill="1.016" diameter="1.778" shape="square"/>
-<pad name="18" x="21.59" y="0" drill="1.016" diameter="1.778" shape="square"/>
+<pad name="11" x="3.81" y="0" drill="1.016" diameter="1.778"/>
+<pad name="12" x="6.35" y="0" drill="1.016" diameter="1.778"/>
+<pad name="13" x="8.89" y="0" drill="1.016" diameter="1.778"/>
+<pad name="14" x="11.43" y="0" drill="1.016" diameter="1.778"/>
+<pad name="15" x="13.97" y="0" drill="1.016" diameter="1.778"/>
+<pad name="16" x="16.51" y="0" drill="1.016" diameter="1.778"/>
+<pad name="17" x="19.05" y="0" drill="1.016" diameter="1.778"/>
+<pad name="18" x="21.59" y="0" drill="1.016" diameter="1.778"/>
+<smd name="P$1" x="-21.59" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$2" x="-19.05" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$3" x="-16.51" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$4" x="-13.97" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$5" x="-11.43" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$6" x="-8.89" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$7" x="-6.35" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$8" x="-3.81" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$9" x="-1.27" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$10" x="1.27" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$11" x="3.81" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$12" x="6.35" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$13" x="8.89" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$14" x="11.43" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$15" x="13.97" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$16" x="16.51" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$17" x="19.05" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$18" x="21.59" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
 </package>
 <package name="CASTELLATION-16-0.1">
 <pad name="1" x="-19.05" y="0" drill="1.016" diameter="1.778"/>
@@ -6458,20 +6476,32 @@ Source: http://www.osram.convergy.de/ ... Lb_q993.pdf</description>
 <smd name="P$16" x="19.05" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
 </package>
 <package name="CASTELLATION-12-0.1">
-<pad name="1" x="-13.97" y="0" drill="1.016" diameter="1.778" shape="square"/>
-<pad name="2" x="-11.43" y="0" drill="1.016" diameter="1.778" shape="square"/>
-<pad name="3" x="-8.89" y="0" drill="1.016" diameter="1.778" shape="square"/>
-<pad name="4" x="-6.35" y="0" drill="1.016" diameter="1.778" shape="square"/>
-<pad name="5" x="-3.81" y="0" drill="1.016" diameter="1.778" shape="square"/>
-<pad name="6" x="-1.27" y="0" drill="1.016" diameter="1.778" shape="square"/>
-<pad name="7" x="1.27" y="0" drill="1.016" diameter="1.778" shape="square"/>
-<pad name="8" x="3.81" y="0" drill="1.016" diameter="1.778" shape="square"/>
-<pad name="9" x="6.35" y="0" drill="1.016" diameter="1.778" shape="square"/>
-<pad name="10" x="8.89" y="0" drill="1.016" diameter="1.778" shape="square"/>
+<pad name="1" x="-13.97" y="0" drill="1.016" diameter="1.778"/>
+<pad name="2" x="-11.43" y="0" drill="1.016" diameter="1.778"/>
+<pad name="3" x="-8.89" y="0" drill="1.016" diameter="1.778"/>
+<pad name="4" x="-6.35" y="0" drill="1.016" diameter="1.778"/>
+<pad name="5" x="-3.81" y="0" drill="1.016" diameter="1.778"/>
+<pad name="6" x="-1.27" y="0" drill="1.016" diameter="1.778"/>
+<pad name="7" x="1.27" y="0" drill="1.016" diameter="1.778"/>
+<pad name="8" x="3.81" y="0" drill="1.016" diameter="1.778"/>
+<pad name="9" x="6.35" y="0" drill="1.016" diameter="1.778"/>
+<pad name="10" x="8.89" y="0" drill="1.016" diameter="1.778"/>
 <text x="-15.24" y="1.27" size="1.27" layer="25">&gt;NAME</text>
 <text x="-15.24" y="-2.54" size="1.27" layer="25">&gt;VALUE</text>
-<pad name="11" x="11.43" y="0" drill="1.016" diameter="1.778" shape="square"/>
-<pad name="12" x="13.97" y="0" drill="1.016" diameter="1.778" shape="square"/>
+<pad name="11" x="11.43" y="0" drill="1.016" diameter="1.778"/>
+<pad name="12" x="13.97" y="0" drill="1.016" diameter="1.778"/>
+<smd name="P$1" x="-13.97" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$2" x="-11.43" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$3" x="-8.89" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$4" x="-6.35" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$5" x="-3.81" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$6" x="-1.27" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$7" x="1.27" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$8" x="3.81" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$9" x="6.35" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$10" x="8.89" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$11" x="11.43" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$12" x="13.97" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
 </package>
 <package name="CASTELLATION-09-0.1">
 <pad name="1" x="-10.16" y="0" drill="1.016" diameter="1.778" shape="square"/>
@@ -6487,79 +6517,138 @@ Source: http://www.osram.convergy.de/ ... Lb_q993.pdf</description>
 <text x="-11.43" y="-2.54" size="1.27" layer="25">&gt;VALUE</text>
 </package>
 <package name="CASTELLATION-15-0.1">
-<pad name="1" x="-17.78" y="0" drill="1.016" diameter="1.778" shape="square"/>
-<pad name="2" x="-15.24" y="0" drill="1.016" diameter="1.778" shape="square"/>
-<pad name="3" x="-12.7" y="0" drill="1.016" diameter="1.778" shape="square"/>
-<pad name="4" x="-10.16" y="0" drill="1.016" diameter="1.778" shape="square"/>
-<pad name="5" x="-7.62" y="0" drill="1.016" diameter="1.778" shape="square"/>
-<pad name="6" x="-5.08" y="0" drill="1.016" diameter="1.778" shape="square"/>
-<pad name="7" x="-2.54" y="0" drill="1.016" diameter="1.778" shape="square"/>
-<pad name="8" x="0" y="0" drill="1.016" diameter="1.778" shape="square"/>
-<pad name="9" x="2.54" y="0" drill="1.016" diameter="1.778" shape="square"/>
-<pad name="10" x="5.08" y="0" drill="1.016" diameter="1.778" shape="square"/>
+<pad name="1" x="-17.78" y="0" drill="1.016" diameter="1.778"/>
+<pad name="2" x="-15.24" y="0" drill="1.016" diameter="1.778"/>
+<pad name="3" x="-12.7" y="0" drill="1.016" diameter="1.778"/>
+<pad name="4" x="-10.16" y="0" drill="1.016" diameter="1.778"/>
+<pad name="5" x="-7.62" y="0" drill="1.016" diameter="1.778"/>
+<pad name="6" x="-5.08" y="0" drill="1.016" diameter="1.778"/>
+<pad name="7" x="-2.54" y="0" drill="1.016" diameter="1.778"/>
+<pad name="8" x="0" y="0" drill="1.016" diameter="1.778"/>
+<pad name="9" x="2.54" y="0" drill="1.016" diameter="1.778"/>
+<pad name="10" x="5.08" y="0" drill="1.016" diameter="1.778"/>
 <text x="-19.05" y="1.27" size="1.27" layer="25">&gt;NAME</text>
 <text x="-19.05" y="-2.54" size="1.27" layer="25">&gt;VALUE</text>
-<pad name="11" x="7.62" y="0" drill="1.016" diameter="1.778" shape="square"/>
-<pad name="12" x="10.16" y="0" drill="1.016" diameter="1.778" shape="square"/>
-<pad name="13" x="12.7" y="0" drill="1.016" diameter="1.778" shape="square"/>
-<pad name="14" x="15.24" y="0" drill="1.016" diameter="1.778" shape="square"/>
-<pad name="15" x="17.78" y="0" drill="1.016" diameter="1.778" shape="square"/>
+<pad name="11" x="7.62" y="0" drill="1.016" diameter="1.778"/>
+<pad name="12" x="10.16" y="0" drill="1.016" diameter="1.778"/>
+<pad name="13" x="12.7" y="0" drill="1.016" diameter="1.778"/>
+<pad name="14" x="15.24" y="0" drill="1.016" diameter="1.778"/>
+<pad name="15" x="17.78" y="0" drill="1.016" diameter="1.778"/>
+<smd name="P$1" x="-17.78" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$2" x="-15.24" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$3" x="-12.7" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$4" x="-10.16" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$5" x="-7.62" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$6" x="-5.08" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$7" x="-2.54" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$8" x="0" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$9" x="2.54" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$10" x="5.08" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$11" x="7.62" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$12" x="10.16" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$13" x="12.7" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$14" x="15.24" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$15" x="17.78" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
 </package>
 <package name="CASTELLATION-17-0.1">
-<pad name="1" x="-20.32" y="0" drill="1.016" diameter="1.778" shape="square"/>
-<pad name="2" x="-17.78" y="0" drill="1.016" diameter="1.778" shape="square"/>
-<pad name="3" x="-15.24" y="0" drill="1.016" diameter="1.778" shape="square"/>
-<pad name="4" x="-12.7" y="0" drill="1.016" diameter="1.778" shape="square"/>
-<pad name="5" x="-10.16" y="0" drill="1.016" diameter="1.778" shape="square"/>
-<pad name="6" x="-7.62" y="0" drill="1.016" diameter="1.778" shape="square"/>
-<pad name="7" x="-5.08" y="0" drill="1.016" diameter="1.778" shape="square"/>
-<pad name="8" x="-2.54" y="0" drill="1.016" diameter="1.778" shape="square"/>
-<pad name="9" x="0" y="0" drill="1.016" diameter="1.778" shape="square"/>
-<pad name="10" x="2.54" y="0" drill="1.016" diameter="1.778" shape="square"/>
+<pad name="1" x="-20.32" y="0" drill="1.016" diameter="1.778"/>
+<pad name="2" x="-17.78" y="0" drill="1.016" diameter="1.778"/>
+<pad name="3" x="-15.24" y="0" drill="1.016" diameter="1.778"/>
+<pad name="4" x="-12.7" y="0" drill="1.016" diameter="1.778"/>
+<pad name="5" x="-10.16" y="0" drill="1.016" diameter="1.778"/>
+<pad name="6" x="-7.62" y="0" drill="1.016" diameter="1.778"/>
+<pad name="7" x="-5.08" y="0" drill="1.016" diameter="1.778"/>
+<pad name="8" x="-2.54" y="0" drill="1.016" diameter="1.778"/>
+<pad name="9" x="0" y="0" drill="1.016" diameter="1.778"/>
+<pad name="10" x="2.54" y="0" drill="1.016" diameter="1.778"/>
 <text x="-21.59" y="1.27" size="1.27" layer="25">&gt;NAME</text>
 <text x="-21.59" y="-2.54" size="1.27" layer="25">&gt;VALUE</text>
-<pad name="11" x="5.08" y="0" drill="1.016" diameter="1.778" shape="square"/>
-<pad name="12" x="7.62" y="0" drill="1.016" diameter="1.778" shape="square"/>
-<pad name="13" x="10.16" y="0" drill="1.016" diameter="1.778" shape="square"/>
-<pad name="14" x="12.7" y="0" drill="1.016" diameter="1.778" shape="square"/>
-<pad name="15" x="15.24" y="0" drill="1.016" diameter="1.778" shape="square"/>
-<pad name="16" x="17.78" y="0" drill="1.016" diameter="1.778" shape="square"/>
-<pad name="17" x="20.32" y="0" drill="1.016" diameter="1.778" shape="square"/>
+<pad name="11" x="5.08" y="0" drill="1.016" diameter="1.778"/>
+<pad name="12" x="7.62" y="0" drill="1.016" diameter="1.778"/>
+<pad name="13" x="10.16" y="0" drill="1.016" diameter="1.778"/>
+<pad name="14" x="12.7" y="0" drill="1.016" diameter="1.778"/>
+<pad name="15" x="15.24" y="0" drill="1.016" diameter="1.778"/>
+<pad name="16" x="17.78" y="0" drill="1.016" diameter="1.778"/>
+<pad name="17" x="20.32" y="0" drill="1.016" diameter="1.778"/>
+<smd name="P$1" x="-20.32" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$2" x="-17.78" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$3" x="-15.24" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$4" x="-12.7" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$5" x="-10.16" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$6" x="-7.62" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$7" x="-5.08" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$8" x="-2.54" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$9" x="0" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$10" x="2.54" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$11" x="5.08" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$12" x="7.62" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$13" x="10.16" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$14" x="12.7" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$15" x="15.24" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$16" x="17.78" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$17" x="20.32" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
 </package>
 <package name="CASTELLATION-14-0.1">
-<pad name="1" x="-16.51" y="0" drill="1.016" diameter="1.778" shape="square"/>
-<pad name="2" x="-13.97" y="0" drill="1.016" diameter="1.778" shape="square"/>
-<pad name="3" x="-11.43" y="0" drill="1.016" diameter="1.778" shape="square"/>
-<pad name="4" x="-8.89" y="0" drill="1.016" diameter="1.778" shape="square"/>
-<pad name="5" x="-6.35" y="0" drill="1.016" diameter="1.778" shape="square"/>
-<pad name="6" x="-3.81" y="0" drill="1.016" diameter="1.778" shape="square"/>
-<pad name="7" x="-1.27" y="0" drill="1.016" diameter="1.778" shape="square"/>
-<pad name="8" x="1.27" y="0" drill="1.016" diameter="1.778" shape="square"/>
-<pad name="9" x="3.81" y="0" drill="1.016" diameter="1.778" shape="square"/>
-<pad name="10" x="6.35" y="0" drill="1.016" diameter="1.778" shape="square"/>
+<pad name="1" x="-16.51" y="0" drill="1.016" diameter="1.778"/>
+<pad name="2" x="-13.97" y="0" drill="1.016" diameter="1.778"/>
+<pad name="3" x="-11.43" y="0" drill="1.016" diameter="1.778"/>
+<pad name="4" x="-8.89" y="0" drill="1.016" diameter="1.778"/>
+<pad name="5" x="-6.35" y="0" drill="1.016" diameter="1.778"/>
+<pad name="6" x="-3.81" y="0" drill="1.016" diameter="1.778"/>
+<pad name="7" x="-1.27" y="0" drill="1.016" diameter="1.778"/>
+<pad name="8" x="1.27" y="0" drill="1.016" diameter="1.778"/>
+<pad name="9" x="3.81" y="0" drill="1.016" diameter="1.778"/>
+<pad name="10" x="6.35" y="0" drill="1.016" diameter="1.778"/>
 <text x="-17.78" y="1.27" size="1.27" layer="25">&gt;NAME</text>
 <text x="-17.78" y="-2.54" size="1.27" layer="25">&gt;VALUE</text>
-<pad name="11" x="8.89" y="0" drill="1.016" diameter="1.778" shape="square"/>
-<pad name="12" x="11.43" y="0" drill="1.016" diameter="1.778" shape="square"/>
-<pad name="13" x="13.97" y="0" drill="1.016" diameter="1.778" shape="square"/>
-<pad name="14" x="16.51" y="0" drill="1.016" diameter="1.778" shape="square"/>
+<pad name="11" x="8.89" y="0" drill="1.016" diameter="1.778"/>
+<pad name="12" x="11.43" y="0" drill="1.016" diameter="1.778"/>
+<pad name="13" x="13.97" y="0" drill="1.016" diameter="1.778"/>
+<pad name="14" x="16.51" y="0" drill="1.016" diameter="1.778"/>
+<smd name="P$1" x="-16.51" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$2" x="-13.97" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$3" x="-11.43" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$4" x="-8.89" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$5" x="-6.35" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$6" x="-3.81" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$7" x="-1.27" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$8" x="1.27" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$9" x="3.81" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$10" x="6.35" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$11" x="8.89" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$12" x="11.43" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$13" x="13.97" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$14" x="16.51" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
 </package>
 <package name="CASTELLATION-13-0.1">
-<pad name="1" x="-15.24" y="0" drill="1.016" diameter="1.778" shape="square"/>
-<pad name="2" x="-12.7" y="0" drill="1.016" diameter="1.778" shape="square"/>
-<pad name="3" x="-10.16" y="0" drill="1.016" diameter="1.778" shape="square"/>
-<pad name="4" x="-7.62" y="0" drill="1.016" diameter="1.778" shape="square"/>
-<pad name="5" x="-5.08" y="0" drill="1.016" diameter="1.778" shape="square"/>
-<pad name="6" x="-2.54" y="0" drill="1.016" diameter="1.778" shape="square"/>
-<pad name="7" x="0" y="0" drill="1.016" diameter="1.778" shape="square"/>
-<pad name="8" x="2.54" y="0" drill="1.016" diameter="1.778" shape="square"/>
-<pad name="9" x="5.08" y="0" drill="1.016" diameter="1.778" shape="square"/>
-<pad name="10" x="7.62" y="0" drill="1.016" diameter="1.778" shape="square"/>
+<pad name="1" x="-15.24" y="0" drill="1.016" diameter="1.778"/>
+<pad name="2" x="-12.7" y="0" drill="1.016" diameter="1.778"/>
+<pad name="3" x="-10.16" y="0" drill="1.016" diameter="1.778"/>
+<pad name="4" x="-7.62" y="0" drill="1.016" diameter="1.778"/>
+<pad name="5" x="-5.08" y="0" drill="1.016" diameter="1.778"/>
+<pad name="6" x="-2.54" y="0" drill="1.016" diameter="1.778"/>
+<pad name="7" x="0" y="0" drill="1.016" diameter="1.778"/>
+<pad name="8" x="2.54" y="0" drill="1.016" diameter="1.778"/>
+<pad name="9" x="5.08" y="0" drill="1.016" diameter="1.778"/>
+<pad name="10" x="7.62" y="0" drill="1.016" diameter="1.778"/>
 <text x="-16.51" y="1.27" size="1.27" layer="25">&gt;NAME</text>
 <text x="-16.51" y="-2.54" size="1.27" layer="25">&gt;VALUE</text>
-<pad name="11" x="10.16" y="0" drill="1.016" diameter="1.778" shape="square"/>
-<pad name="12" x="12.7" y="0" drill="1.016" diameter="1.778" shape="square"/>
-<pad name="13" x="15.24" y="0" drill="1.016" diameter="1.778" shape="square"/>
+<pad name="11" x="10.16" y="0" drill="1.016" diameter="1.778"/>
+<pad name="12" x="12.7" y="0" drill="1.016" diameter="1.778"/>
+<pad name="13" x="15.24" y="0" drill="1.016" diameter="1.778"/>
+<smd name="P$1" x="-15.24" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$2" x="-12.7" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$3" x="-10.16" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$4" x="-7.62" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$5" x="-5.08" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$6" x="-2.54" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$7" x="0" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$8" x="2.54" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$9" x="5.08" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$10" x="7.62" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$11" x="10.16" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$12" x="12.7" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$13" x="15.24" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
 </package>
 <package name="CASTELLATION-08-0.1">
 <pad name="1" x="-8.89" y="0" drill="1.016" diameter="1.778" shape="square"/>
@@ -6585,14 +6674,20 @@ Source: http://www.osram.convergy.de/ ... Lb_q993.pdf</description>
 <text x="-8.89" y="-2.54" size="1.27" layer="25">&gt;VALUE</text>
 </package>
 <package name="CASTELLATION-06-0.1">
-<pad name="1" x="-6.35" y="0" drill="1.016" diameter="1.778" shape="square"/>
-<pad name="2" x="-3.81" y="0" drill="1.016" diameter="1.778" shape="square"/>
-<pad name="3" x="-1.27" y="0" drill="1.016" diameter="1.778" shape="square"/>
-<pad name="4" x="1.27" y="0" drill="1.016" diameter="1.778" shape="square"/>
-<pad name="5" x="3.81" y="0" drill="1.016" diameter="1.778" shape="square"/>
-<pad name="6" x="6.35" y="0" drill="1.016" diameter="1.778" shape="square"/>
+<pad name="1" x="-6.35" y="0" drill="1.016" diameter="1.778"/>
+<pad name="2" x="-3.81" y="0" drill="1.016" diameter="1.778"/>
+<pad name="3" x="-1.27" y="0" drill="1.016" diameter="1.778"/>
+<pad name="4" x="1.27" y="0" drill="1.016" diameter="1.778"/>
+<pad name="5" x="3.81" y="0" drill="1.016" diameter="1.778"/>
+<pad name="6" x="6.35" y="0" drill="1.016" diameter="1.778"/>
 <text x="-7.62" y="1.27" size="1.27" layer="25">&gt;NAME</text>
 <text x="-7.62" y="-2.54" size="1.27" layer="25">&gt;VALUE</text>
+<smd name="P$1" x="-6.35" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$2" x="-3.81" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$3" x="-1.27" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$4" x="1.27" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$5" x="3.81" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$6" x="6.35" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
 </package>
 <package name="CASTELLATION-05-0.1">
 <pad name="1" x="-5.08" y="0" drill="1.016" diameter="1.778" shape="square"/>
@@ -6630,28 +6725,48 @@ Source: http://www.osram.convergy.de/ ... Lb_q993.pdf</description>
 <text x="-1.27" y="-2.54" size="1.27" layer="25">&gt;VALUE</text>
 </package>
 <package name="CASTELLATION-20-0.1">
-<pad name="1" x="-24.13" y="0" drill="1.016" diameter="1.778" shape="square"/>
-<pad name="2" x="-21.59" y="0" drill="1.016" diameter="1.778" shape="square"/>
-<pad name="3" x="-19.05" y="0" drill="1.016" diameter="1.778" shape="square"/>
-<pad name="4" x="-16.51" y="0" drill="1.016" diameter="1.778" shape="square"/>
-<pad name="5" x="-13.97" y="0" drill="1.016" diameter="1.778" shape="square"/>
-<pad name="6" x="-11.43" y="0" drill="1.016" diameter="1.778" shape="square"/>
-<pad name="7" x="-8.89" y="0" drill="1.016" diameter="1.778" shape="square"/>
-<pad name="8" x="-6.35" y="0" drill="1.016" diameter="1.778" shape="square"/>
-<pad name="9" x="-3.81" y="0" drill="1.016" diameter="1.778" shape="square"/>
-<pad name="10" x="-1.27" y="0" drill="1.016" diameter="1.778" shape="square"/>
+<pad name="1" x="-24.13" y="0" drill="1.016" diameter="1.778"/>
+<pad name="2" x="-21.59" y="0" drill="1.016" diameter="1.778"/>
+<pad name="3" x="-19.05" y="0" drill="1.016" diameter="1.778"/>
+<pad name="4" x="-16.51" y="0" drill="1.016" diameter="1.778"/>
+<pad name="5" x="-13.97" y="0" drill="1.016" diameter="1.778"/>
+<pad name="6" x="-11.43" y="0" drill="1.016" diameter="1.778"/>
+<pad name="7" x="-8.89" y="0" drill="1.016" diameter="1.778"/>
+<pad name="8" x="-6.35" y="0" drill="1.016" diameter="1.778"/>
+<pad name="9" x="-3.81" y="0" drill="1.016" diameter="1.778"/>
+<pad name="10" x="-1.27" y="0" drill="1.016" diameter="1.778"/>
 <text x="-25.4" y="1.27" size="1.27" layer="25">&gt;NAME</text>
 <text x="-25.4" y="-2.54" size="1.27" layer="25">&gt;VALUE</text>
-<pad name="11" x="1.27" y="0" drill="1.016" diameter="1.778" shape="square"/>
-<pad name="12" x="3.81" y="0" drill="1.016" diameter="1.778" shape="square"/>
-<pad name="13" x="6.35" y="0" drill="1.016" diameter="1.778" shape="square"/>
-<pad name="14" x="8.89" y="0" drill="1.016" diameter="1.778" shape="square"/>
-<pad name="15" x="11.43" y="0" drill="1.016" diameter="1.778" shape="square"/>
-<pad name="16" x="13.97" y="0" drill="1.016" diameter="1.778" shape="square"/>
-<pad name="17" x="16.51" y="0" drill="1.016" diameter="1.778" shape="square"/>
-<pad name="18" x="19.05" y="0" drill="1.016" diameter="1.778" shape="square"/>
-<pad name="19" x="21.59" y="0" drill="1.016" diameter="1.778" shape="square"/>
-<pad name="20" x="24.13" y="0" drill="1.016" diameter="1.778" shape="square"/>
+<pad name="11" x="1.27" y="0" drill="1.016" diameter="1.778"/>
+<pad name="12" x="3.81" y="0" drill="1.016" diameter="1.778"/>
+<pad name="13" x="6.35" y="0" drill="1.016" diameter="1.778"/>
+<pad name="14" x="8.89" y="0" drill="1.016" diameter="1.778"/>
+<pad name="15" x="11.43" y="0" drill="1.016" diameter="1.778"/>
+<pad name="16" x="13.97" y="0" drill="1.016" diameter="1.778"/>
+<pad name="17" x="16.51" y="0" drill="1.016" diameter="1.778"/>
+<pad name="18" x="19.05" y="0" drill="1.016" diameter="1.778"/>
+<pad name="19" x="21.59" y="0" drill="1.016" diameter="1.778"/>
+<pad name="20" x="24.13" y="0" drill="1.016" diameter="1.778"/>
+<smd name="P$1" x="-24.13" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$2" x="-21.59" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$3" x="-19.05" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$4" x="-16.51" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$5" x="-13.97" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$6" x="-11.43" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$7" x="-8.89" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$8" x="-6.35" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$9" x="-3.81" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$10" x="-1.27" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$11" x="1.27" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$12" x="3.81" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$13" x="6.35" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$14" x="8.89" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$15" x="11.43" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$16" x="13.97" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$17" x="16.51" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$18" x="19.05" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$19" x="21.59" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
+<smd name="P$20" x="24.13" y="0" dx="1.778" dy="3.556" layer="16" roundness="100"/>
 </package>
 <package name="F-1X01-0.1-PTH">
 <wire x1="-1.27" y1="1.27" x2="-1.27" y2="-1.27" width="0.2032" layer="21"/>
@@ -9187,12 +9302,12 @@ Source: http://www.osram.convergy.de/ ... Lb_q993.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="F-2X06" prefix="JP">
+<deviceset name="2X06" prefix="J">
 <gates>
 <gate name="G$1" symbol="2X06" x="2.54" y="0"/>
 </gates>
 <devices>
-<device name="0.05-SMD" package="F-2X06-0.05-SMD">
+<device name="F-0.05-SMD" package="F-2X06-0.05-SMD">
 <connects>
 <connect gate="G$1" pin="1" pad="1"/>
 <connect gate="G$1" pin="10" pad="10"/>
@@ -9211,7 +9326,7 @@ Source: http://www.osram.convergy.de/ ... Lb_q993.pdf</description>
 <technology name=""/>
 </technologies>
 </device>
-<device name="PTH" package="F-2X06-0.1-PTH">
+<device name="F-0.1-PTH" package="F-2X06-0.1-PTH">
 <connects>
 <connect gate="G$1" pin="1" pad="1"/>
 <connect gate="G$1" pin="10" pad="10"/>
@@ -9232,12 +9347,12 @@ Source: http://www.osram.convergy.de/ ... Lb_q993.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="M-3X03" prefix="JP">
+<deviceset name="3X03" prefix="J">
 <gates>
 <gate name="G$1" symbol="3X03" x="0" y="0"/>
 </gates>
 <devices>
-<device name="PTH" package="M-3X03-0.1-PTH">
+<device name="M-0.1-PTH" package="M-3X03-0.1-PTH">
 <connects>
 <connect gate="G$1" pin="1" pad="1"/>
 <connect gate="G$1" pin="2" pad="2"/>
@@ -9294,12 +9409,12 @@ Source: http://www.osram.convergy.de/ ... Lb_q993.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="M-3X08" prefix="JP">
+<deviceset name="3X08" prefix="J">
 <gates>
 <gate name="G$1" symbol="3X08" x="-10.16" y="7.62"/>
 </gates>
 <devices>
-<device name="PTH" package="M-3X08-0.1-PTH">
+<device name="M-0.1-PTH" package="M-3X08-0.1-PTH">
 <connects>
 <connect gate="G$1" pin="1" pad="1"/>
 <connect gate="G$1" pin="10" pad="10"/>
@@ -9465,12 +9580,12 @@ Source: http://www.osram.convergy.de/ ... Lb_q993.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="M-2X03" prefix="JP">
+<deviceset name="2X03" prefix="J">
 <gates>
 <gate name="G$1" symbol="2X03" x="0" y="0"/>
 </gates>
 <devices>
-<device name="EDGE" package="M-2X03-0.1-EDGE">
+<device name="M-0.1-EDGE" package="M-2X03-0.1-EDGE">
 <connects>
 <connect gate="G$1" pin="1" pad="1"/>
 <connect gate="G$1" pin="2" pad="2"/>
@@ -9483,7 +9598,7 @@ Source: http://www.osram.convergy.de/ ... Lb_q993.pdf</description>
 <technology name=""/>
 </technologies>
 </device>
-<device name="PTH" package="M-2X03-0.1-PTH">
+<device name="M-0.1-PTH" package="M-2X03-0.1-PTH">
 <connects>
 <connect gate="G$1" pin="1" pad="1"/>
 <connect gate="G$1" pin="2" pad="2"/>
@@ -9496,7 +9611,7 @@ Source: http://www.osram.convergy.de/ ... Lb_q993.pdf</description>
 <technology name=""/>
 </technologies>
 </device>
-<device name="PTH-SHROUDED" package="M-2X03-0.1-PTH-SHROUDED">
+<device name="M-0.1-PTH-SHROUDED" package="M-2X03-0.1-PTH-SHROUDED">
 <connects>
 <connect gate="G$1" pin="1" pad="1"/>
 <connect gate="G$1" pin="2" pad="2"/>
@@ -9509,7 +9624,7 @@ Source: http://www.osram.convergy.de/ ... Lb_q993.pdf</description>
 <technology name=""/>
 </technologies>
 </device>
-<device name="EDGE-SHROUDED" package="M-2X03-0.1-EDGE-SHROUDED">
+<device name="M-0.1-EDGE-SHROUDED" package="M-2X03-0.1-EDGE-SHROUDED">
 <connects>
 <connect gate="G$1" pin="1" pad="1"/>
 <connect gate="G$1" pin="2" pad="2"/>
@@ -9641,7 +9756,7 @@ Source: http://www.osram.convergy.de/ ... Lb_q993.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="MODULAR-4P4C" prefix="JP">
+<deviceset name="MODULAR-4P4C" prefix="J">
 <gates>
 <gate name="G$1" symbol="MODULAR-4P4C" x="0" y="0"/>
 </gates>
@@ -9659,12 +9774,12 @@ Source: http://www.osram.convergy.de/ ... Lb_q993.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="M-3X24" prefix="JP">
+<deviceset name="3X24" prefix="J">
 <gates>
 <gate name="G$1" symbol="3X24" x="0" y="0"/>
 </gates>
 <devices>
-<device name="PTH" package="M-3X24-0.1-PTH">
+<device name="M-0.1-PTH" package="M-3X24-0.1-PTH">
 <connects>
 <connect gate="G$1" pin="1" pad="1"/>
 <connect gate="G$1" pin="10" pad="10"/>
@@ -9745,7 +9860,7 @@ Source: http://www.osram.convergy.de/ ... Lb_q993.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="ZIF-2X20-PTH" prefix="JP">
+<deviceset name="ZIF-2X20-PTH" prefix="J">
 <gates>
 <gate name="G$1" symbol="2X20" x="0" y="0"/>
 </gates>
@@ -9799,12 +9914,12 @@ Source: http://www.osram.convergy.de/ ... Lb_q993.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="M-2X04" prefix="JP">
+<deviceset name="2X04" prefix="J">
 <gates>
 <gate name="G$1" symbol="2X04" x="0" y="0"/>
 </gates>
 <devices>
-<device name="PTH" package="M-2X04-0.1-PTH">
+<device name="M-0.1-PTH" package="M-2X04-0.1-PTH">
 <connects>
 <connect gate="G$1" pin="1" pad="1"/>
 <connect gate="G$1" pin="2" pad="2"/>
@@ -9819,7 +9934,7 @@ Source: http://www.osram.convergy.de/ ... Lb_q993.pdf</description>
 <technology name=""/>
 </technologies>
 </device>
-<device name="EDGE" package="M-2X04-0.1-EDGE">
+<device name="M-0.1-EDGE" package="M-2X04-0.1-EDGE">
 <connects>
 <connect gate="G$1" pin="1" pad="1"/>
 <connect gate="G$1" pin="2" pad="2"/>
@@ -9834,7 +9949,7 @@ Source: http://www.osram.convergy.de/ ... Lb_q993.pdf</description>
 <technology name=""/>
 </technologies>
 </device>
-<device name="PTH-SHROUDED" package="M-2X04-0.1-PTH-SHROUDED">
+<device name="M-0.1-PTH-SHROUDED" package="M-2X04-0.1-PTH-SHROUDED">
 <connects>
 <connect gate="G$1" pin="1" pad="1"/>
 <connect gate="G$1" pin="2" pad="2"/>
@@ -9849,7 +9964,7 @@ Source: http://www.osram.convergy.de/ ... Lb_q993.pdf</description>
 <technology name=""/>
 </technologies>
 </device>
-<device name="EDGE-SHROUDED" package="M-2X04-0.1-EDGE-SHROUDED">
+<device name="M-0.1-EDGE-SHROUDED" package="M-2X04-0.1-EDGE-SHROUDED">
 <connects>
 <connect gate="G$1" pin="1" pad="1"/>
 <connect gate="G$1" pin="2" pad="2"/>
@@ -10078,12 +10193,12 @@ Source: http://www.osram.convergy.de/ ... Lb_q993.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="M-2X08" prefix="JP">
+<deviceset name="2X08" prefix="J">
 <gates>
 <gate name="G$1" symbol="2X08" x="0" y="0"/>
 </gates>
 <devices>
-<device name="PTH" package="M-2X08-0.1-PTH">
+<device name="M-0.1-PTH" package="M-2X08-0.1-PTH">
 <connects>
 <connect gate="G$1" pin="1" pad="1"/>
 <connect gate="G$1" pin="10" pad="10"/>
@@ -10418,7 +10533,7 @@ Source: http://www.osram.convergy.de/ ... Lb_q993.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="MODULAR-8P8C" prefix="JP">
+<deviceset name="MODULAR-8P8C" prefix="J">
 <gates>
 <gate name="G$1" symbol="1X08" x="0" y="0"/>
 </gates>
@@ -10455,7 +10570,7 @@ Source: http://www.osram.convergy.de/ ... Lb_q993.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="MODULAR-8P8C-2LED" prefix="JP" uservalue="yes">
+<deviceset name="MODULAR-8P8C-2LED" prefix="J" uservalue="yes">
 <gates>
 <gate name="G$1" symbol="MODULAR-8P8C-2LED" x="0" y="0"/>
 </gates>
@@ -10573,7 +10688,7 @@ Source: http://www.osram.convergy.de/ ... Lb_q993.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="M-08-MICRO-MATCH" prefix="JP">
+<deviceset name="M-08-MICRO-MATCH" prefix="J">
 <gates>
 <gate name="G$1" symbol="1X08" x="0" y="0"/>
 </gates>
@@ -10681,12 +10796,12 @@ Source: http://www.osram.convergy.de/ ... Lb_q993.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="M-2X05" prefix="JP">
+<deviceset name="2X05" prefix="J">
 <gates>
 <gate name="G$1" symbol="2X05" x="0" y="0"/>
 </gates>
 <devices>
-<device name="EDGE" package="M-2X05-0.1-EDGE">
+<device name="M-0.1-EDGE" package="M-2X05-0.1-EDGE">
 <connects>
 <connect gate="G$1" pin="1" pad="1"/>
 <connect gate="G$1" pin="10" pad="10"/>
@@ -10705,7 +10820,7 @@ Source: http://www.osram.convergy.de/ ... Lb_q993.pdf</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="MODULAR-8P8C-DOUBLE" prefix="JP" uservalue="yes">
+<deviceset name="MODULAR-8P8C-DOUBLE" prefix="J" uservalue="yes">
 <gates>
 <gate name="G$1" symbol="MODULAR-8P8C-DOUBLE" x="0" y="0"/>
 </gates>
