@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="6.5.0">
+<eagle version="7.2.0">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
+<grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="yes" altdistance="0.01" altunitdist="inch" altunit="inch"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="yes" active="yes"/>
 <layer number="2" name="Route2" color="1" fill="3" visible="no" active="no"/>
@@ -6948,6 +6948,10 @@ Source: http://www.osram.convergy.de/ ... Lb_q993.pdf</description>
 <hole x="5.08" y="0" drill="1.7"/>
 <text x="-6" y="6" size="1.27" layer="25">&gt;NAME</text>
 <text x="-6" y="-7" size="1.27" layer="27">&gt;VALUE</text>
+<pad name="SW3" x="-2.5" y="4" drill="1.5" diameter="2.54"/>
+<pad name="SW4" x="2.5" y="4.5" drill="1.5" diameter="2.54"/>
+<pad name="D2" x="3.81" y="-3.81" drill="1" diameter="1.7"/>
+<pad name="D1" x="-3.81" y="-3.81" drill="1" diameter="1.7"/>
 </package>
 <package name="CHERRY-MX-LED-1X1">
 <wire x1="6" y1="-7.8" x2="-6" y2="-7.8" width="0.127" layer="21"/>
@@ -6971,6 +6975,10 @@ Source: http://www.osram.convergy.de/ ... Lb_q993.pdf</description>
 <wire x1="-9.525" y1="-9.525" x2="-9.525" y2="9.525" width="0.254" layer="51"/>
 <text x="-6" y="6" size="1.27" layer="25">&gt;NAME</text>
 <text x="-6" y="-7" size="1.27" layer="27">&gt;VALUE</text>
+<pad name="SW3" x="-2.5" y="4" drill="1.5" diameter="2.54"/>
+<pad name="SW4" x="2.5" y="4.5" drill="1.5" diameter="2.54"/>
+<pad name="D2" x="3.81" y="-3.81" drill="1" diameter="1.7"/>
+<pad name="D1" x="-3.81" y="-3.81" drill="1" diameter="1.7"/>
 </package>
 <package name="CHERRY-MX-LED-1X1.25">
 <wire x1="6" y1="-7.8" x2="-6" y2="-7.8" width="0.127" layer="21"/>
@@ -6994,6 +7002,10 @@ Source: http://www.osram.convergy.de/ ... Lb_q993.pdf</description>
 <wire x1="-11.90625" y1="-9.525" x2="-11.90625" y2="9.525" width="0.254" layer="51"/>
 <text x="-6" y="6" size="1.27" layer="25">&gt;NAME</text>
 <text x="-6" y="-7" size="1.27" layer="27">&gt;VALUE</text>
+<pad name="SW3" x="-2.5" y="4" drill="1.5" diameter="2.54"/>
+<pad name="SW4" x="2.5" y="4.5" drill="1.5" diameter="2.54"/>
+<pad name="D2" x="3.81" y="-3.81" drill="1" diameter="1.7"/>
+<pad name="D1" x="-3.81" y="-3.81" drill="1" diameter="1.7"/>
 </package>
 <package name="CHERRY-MX-LED-1X1.5">
 <wire x1="6" y1="-7.8" x2="-6" y2="-7.8" width="0.127" layer="21"/>
@@ -7017,6 +7029,10 @@ Source: http://www.osram.convergy.de/ ... Lb_q993.pdf</description>
 <wire x1="-14.2875" y1="-9.525" x2="-14.2875" y2="9.525" width="0.254" layer="51"/>
 <text x="-6" y="6" size="1.27" layer="25">&gt;NAME</text>
 <text x="-6" y="-7" size="1.27" layer="27">&gt;VALUE</text>
+<pad name="SW3" x="-2.5" y="4" drill="1.5" diameter="2.54"/>
+<pad name="SW4" x="2.5" y="4.5" drill="1.5" diameter="2.54"/>
+<pad name="D2" x="3.81" y="-3.81" drill="1" diameter="1.7"/>
+<pad name="D1" x="-3.81" y="-3.81" drill="1" diameter="1.7"/>
 </package>
 <package name="CHERRY-MX-LED-1X1.75">
 <wire x1="6" y1="-7.8" x2="-6" y2="-7.8" width="0.127" layer="21"/>
@@ -7040,6 +7056,10 @@ Source: http://www.osram.convergy.de/ ... Lb_q993.pdf</description>
 <wire x1="-16.66875" y1="-9.525" x2="-16.66875" y2="9.525" width="0.254" layer="51"/>
 <text x="-6" y="6" size="1.27" layer="25">&gt;NAME</text>
 <text x="-6" y="-7" size="1.27" layer="27">&gt;VALUE</text>
+<pad name="SW3" x="-2.5" y="4" drill="1.5" diameter="2.54"/>
+<pad name="SW4" x="2.5" y="4.5" drill="1.5" diameter="2.54"/>
+<pad name="D2" x="3.81" y="-3.81" drill="1" diameter="1.7"/>
+<pad name="D1" x="-3.81" y="-3.81" drill="1" diameter="1.7"/>
 </package>
 <package name="CHERRY-MX-LED-1X2">
 <wire x1="6" y1="-7.8" x2="-6" y2="-7.8" width="0.127" layer="21"/>
@@ -7067,6 +7087,10 @@ Source: http://www.osram.convergy.de/ ... Lb_q993.pdf</description>
 <hole x="11.9" y="-8.24" drill="4"/>
 <text x="-6" y="6" size="1.27" layer="25">&gt;NAME</text>
 <text x="-6" y="-7" size="1.27" layer="27">&gt;VALUE</text>
+<pad name="SW3" x="-2.5" y="4" drill="1.5" diameter="2.54"/>
+<pad name="SW4" x="2.5" y="4.5" drill="1.5" diameter="2.54"/>
+<pad name="D2" x="3.81" y="-3.81" drill="1" diameter="1.7"/>
+<pad name="D1" x="-3.81" y="-3.81" drill="1" diameter="1.7"/>
 </package>
 <package name="CHERRY-MX-LED-1X2.25">
 <wire x1="6" y1="-7.8" x2="-6" y2="-7.8" width="0.127" layer="21"/>
@@ -7094,6 +7118,10 @@ Source: http://www.osram.convergy.de/ ... Lb_q993.pdf</description>
 <hole x="11.9" y="-8.24" drill="4"/>
 <text x="-6" y="6" size="1.27" layer="25">&gt;NAME</text>
 <text x="-6" y="-7" size="1.27" layer="27">&gt;VALUE</text>
+<pad name="SW3" x="-2.5" y="4" drill="1.5" diameter="2.54"/>
+<pad name="SW4" x="2.5" y="4.5" drill="1.5" diameter="2.54"/>
+<pad name="D2" x="3.81" y="-3.81" drill="1" diameter="1.7"/>
+<pad name="D1" x="-3.81" y="-3.81" drill="1" diameter="1.7"/>
 </package>
 <package name="CHERRY-MX-LED-1X2.75">
 <wire x1="6" y1="-7.8" x2="-6" y2="-7.8" width="0.127" layer="21"/>
@@ -7121,6 +7149,10 @@ Source: http://www.osram.convergy.de/ ... Lb_q993.pdf</description>
 <hole x="11.9" y="-8.24" drill="4"/>
 <text x="-6" y="6" size="1.27" layer="25">&gt;NAME</text>
 <text x="-6" y="-7" size="1.27" layer="27">&gt;VALUE</text>
+<pad name="SW3" x="-2.5" y="4" drill="1.5" diameter="2.54"/>
+<pad name="SW4" x="2.5" y="4.5" drill="1.5" diameter="2.54"/>
+<pad name="D2" x="3.81" y="-3.81" drill="1" diameter="1.7"/>
+<pad name="D1" x="-3.81" y="-3.81" drill="1" diameter="1.7"/>
 </package>
 <package name="CHERRY-MX-LED-1X3">
 <wire x1="6" y1="-7.8" x2="-6" y2="-7.8" width="0.127" layer="21"/>
@@ -7148,6 +7180,10 @@ Source: http://www.osram.convergy.de/ ... Lb_q993.pdf</description>
 <hole x="19.05" y="-8.24" drill="4"/>
 <text x="-6" y="6" size="1.27" layer="25">&gt;NAME</text>
 <text x="-6" y="-7" size="1.27" layer="27">&gt;VALUE</text>
+<pad name="SW3" x="-2.5" y="4" drill="1.5" diameter="2.54"/>
+<pad name="SW4" x="2.5" y="4.5" drill="1.5" diameter="2.54"/>
+<pad name="D2" x="3.81" y="-3.81" drill="1" diameter="1.7"/>
+<pad name="D1" x="-3.81" y="-3.81" drill="1" diameter="1.7"/>
 </package>
 <package name="AUDIO-JACK-TRRS-SMD">
 <description>&lt;a href="http://www.digikey.com/product-detail/en/SJ-43515TS-SMT-TR/CP-43515TSSJCT-ND/669733"&gt;Digikey Part&lt;/a&gt;</description>
@@ -9631,14 +9667,16 @@ Source: http://www.osram.convergy.de/ ... Lb_q993.pdf</description>
 <description>Schematic part for Cherry MX series keyswitch with additional pins for LED</description>
 <text x="-7.874" y="5.588" size="1.4224" layer="95">CHERRY-MX-LED</text>
 <pin name="SW1" x="-12.7" y="2.54" length="middle"/>
-<pin name="SW2" x="-12.7" y="-2.54" length="middle"/>
+<pin name="SW2" x="12.7" y="2.54" length="middle" rot="R180"/>
 <text x="-7.874" y="-7.366" size="1.778" layer="95">&gt;NAME</text>
 <wire x1="-7.62" y1="5.08" x2="-7.62" y2="-5.08" width="0.254" layer="94"/>
 <wire x1="-7.62" y1="-5.08" x2="7.62" y2="-5.08" width="0.254" layer="94"/>
 <wire x1="7.62" y1="-5.08" x2="7.62" y2="5.08" width="0.254" layer="94"/>
 <wire x1="7.62" y1="5.08" x2="-7.62" y2="5.08" width="0.254" layer="94"/>
-<pin name="LED1" x="12.7" y="2.54" length="middle" rot="R180"/>
+<pin name="LED1" x="-12.7" y="-2.54" length="middle"/>
 <pin name="LED2" x="12.7" y="-2.54" length="middle" rot="R180"/>
+<pin name="D1" x="-12.7" y="0" length="middle"/>
+<pin name="D2" x="12.7" y="0" length="middle" rot="R180"/>
 </symbol>
 <symbol name="AUDIO-JACK-TRRS-SWITCH">
 <wire x1="-1.27" y1="-5.08" x2="0" y2="-3.81" width="0.1524" layer="94"/>
@@ -12785,17 +12823,20 @@ Source: http://www.osram.convergy.de/ ... Lb_q993.pdf</description>
 </devices>
 </deviceset>
 <deviceset name="CHERRY-MX-LED" prefix="S" uservalue="yes">
-<description>Cherry MX series keyswitch with LED</description>
+<description>Cherry MX series keyswitch with LED.&lt;br&gt;
+Also compatible with Alps/Matias switches.</description>
 <gates>
 <gate name="G$1" symbol="CHERRY-MX-LED" x="0" y="0"/>
 </gates>
 <devices>
 <device name="BASE" package="CHERRY-MX-LED">
 <connects>
+<connect gate="G$1" pin="D1" pad="D1"/>
+<connect gate="G$1" pin="D2" pad="D2"/>
 <connect gate="G$1" pin="LED1" pad="LED1"/>
 <connect gate="G$1" pin="LED2" pad="LED2"/>
-<connect gate="G$1" pin="SW1" pad="SW1"/>
-<connect gate="G$1" pin="SW2" pad="SW2"/>
+<connect gate="G$1" pin="SW1" pad="SW1 SW3"/>
+<connect gate="G$1" pin="SW2" pad="SW2 SW4"/>
 </connects>
 <technologies>
 <technology name=""/>
@@ -12803,10 +12844,12 @@ Source: http://www.osram.convergy.de/ ... Lb_q993.pdf</description>
 </device>
 <device name="1X1" package="CHERRY-MX-LED-1X1">
 <connects>
+<connect gate="G$1" pin="D1" pad="D1"/>
+<connect gate="G$1" pin="D2" pad="D2"/>
 <connect gate="G$1" pin="LED1" pad="LED1"/>
 <connect gate="G$1" pin="LED2" pad="LED2"/>
-<connect gate="G$1" pin="SW1" pad="SW1"/>
-<connect gate="G$1" pin="SW2" pad="SW2"/>
+<connect gate="G$1" pin="SW1" pad="SW1 SW3"/>
+<connect gate="G$1" pin="SW2" pad="SW2 SW4"/>
 </connects>
 <technologies>
 <technology name=""/>
@@ -12814,10 +12857,12 @@ Source: http://www.osram.convergy.de/ ... Lb_q993.pdf</description>
 </device>
 <device name="1X1.25" package="CHERRY-MX-LED-1X1.25">
 <connects>
+<connect gate="G$1" pin="D1" pad="D1"/>
+<connect gate="G$1" pin="D2" pad="D2"/>
 <connect gate="G$1" pin="LED1" pad="LED1"/>
 <connect gate="G$1" pin="LED2" pad="LED2"/>
-<connect gate="G$1" pin="SW1" pad="SW1"/>
-<connect gate="G$1" pin="SW2" pad="SW2"/>
+<connect gate="G$1" pin="SW1" pad="SW1 SW3"/>
+<connect gate="G$1" pin="SW2" pad="SW2 SW4"/>
 </connects>
 <technologies>
 <technology name=""/>
@@ -12825,10 +12870,12 @@ Source: http://www.osram.convergy.de/ ... Lb_q993.pdf</description>
 </device>
 <device name="1X1.5" package="CHERRY-MX-LED-1X1.5">
 <connects>
+<connect gate="G$1" pin="D1" pad="D1"/>
+<connect gate="G$1" pin="D2" pad="D2"/>
 <connect gate="G$1" pin="LED1" pad="LED1"/>
 <connect gate="G$1" pin="LED2" pad="LED2"/>
-<connect gate="G$1" pin="SW1" pad="SW1"/>
-<connect gate="G$1" pin="SW2" pad="SW2"/>
+<connect gate="G$1" pin="SW1" pad="SW1 SW3"/>
+<connect gate="G$1" pin="SW2" pad="SW2 SW4"/>
 </connects>
 <technologies>
 <technology name=""/>
@@ -12836,10 +12883,12 @@ Source: http://www.osram.convergy.de/ ... Lb_q993.pdf</description>
 </device>
 <device name="1X1.75" package="CHERRY-MX-LED-1X1.75">
 <connects>
+<connect gate="G$1" pin="D1" pad="D1"/>
+<connect gate="G$1" pin="D2" pad="D2"/>
 <connect gate="G$1" pin="LED1" pad="LED1"/>
 <connect gate="G$1" pin="LED2" pad="LED2"/>
-<connect gate="G$1" pin="SW1" pad="SW1"/>
-<connect gate="G$1" pin="SW2" pad="SW2"/>
+<connect gate="G$1" pin="SW1" pad="SW1 SW3"/>
+<connect gate="G$1" pin="SW2" pad="SW2 SW4"/>
 </connects>
 <technologies>
 <technology name=""/>
@@ -12847,10 +12896,12 @@ Source: http://www.osram.convergy.de/ ... Lb_q993.pdf</description>
 </device>
 <device name="1X2" package="CHERRY-MX-LED-1X2">
 <connects>
+<connect gate="G$1" pin="D1" pad="D1"/>
+<connect gate="G$1" pin="D2" pad="D2"/>
 <connect gate="G$1" pin="LED1" pad="LED1"/>
 <connect gate="G$1" pin="LED2" pad="LED2"/>
-<connect gate="G$1" pin="SW1" pad="SW1"/>
-<connect gate="G$1" pin="SW2" pad="SW2"/>
+<connect gate="G$1" pin="SW1" pad="SW1 SW3"/>
+<connect gate="G$1" pin="SW2" pad="SW2 SW4"/>
 </connects>
 <technologies>
 <technology name=""/>
@@ -12858,10 +12909,12 @@ Source: http://www.osram.convergy.de/ ... Lb_q993.pdf</description>
 </device>
 <device name="1X2.25" package="CHERRY-MX-LED-1X2.25">
 <connects>
+<connect gate="G$1" pin="D1" pad="D1"/>
+<connect gate="G$1" pin="D2" pad="D2"/>
 <connect gate="G$1" pin="LED1" pad="LED1"/>
 <connect gate="G$1" pin="LED2" pad="LED2"/>
-<connect gate="G$1" pin="SW1" pad="SW1"/>
-<connect gate="G$1" pin="SW2" pad="SW2"/>
+<connect gate="G$1" pin="SW1" pad="SW1 SW3"/>
+<connect gate="G$1" pin="SW2" pad="SW2 SW4"/>
 </connects>
 <technologies>
 <technology name=""/>
@@ -12869,10 +12922,12 @@ Source: http://www.osram.convergy.de/ ... Lb_q993.pdf</description>
 </device>
 <device name="1X2.75" package="CHERRY-MX-LED-1X2.75">
 <connects>
+<connect gate="G$1" pin="D1" pad="D1"/>
+<connect gate="G$1" pin="D2" pad="D2"/>
 <connect gate="G$1" pin="LED1" pad="LED1"/>
 <connect gate="G$1" pin="LED2" pad="LED2"/>
-<connect gate="G$1" pin="SW1" pad="SW1"/>
-<connect gate="G$1" pin="SW2" pad="SW2"/>
+<connect gate="G$1" pin="SW1" pad="SW1 SW3"/>
+<connect gate="G$1" pin="SW2" pad="SW2 SW4"/>
 </connects>
 <technologies>
 <technology name=""/>
@@ -12880,10 +12935,12 @@ Source: http://www.osram.convergy.de/ ... Lb_q993.pdf</description>
 </device>
 <device name="1X3" package="CHERRY-MX-LED-1X3">
 <connects>
+<connect gate="G$1" pin="D1" pad="D1"/>
+<connect gate="G$1" pin="D2" pad="D2"/>
 <connect gate="G$1" pin="LED1" pad="LED1"/>
 <connect gate="G$1" pin="LED2" pad="LED2"/>
-<connect gate="G$1" pin="SW1" pad="SW1"/>
-<connect gate="G$1" pin="SW2" pad="SW2"/>
+<connect gate="G$1" pin="SW1" pad="SW1 SW3"/>
+<connect gate="G$1" pin="SW2" pad="SW2 SW4"/>
 </connects>
 <technologies>
 <technology name=""/>
