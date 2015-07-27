@@ -1,0 +1,52 @@
+#usage "<h3>Inverted Silkscreen</h3>"
+ "Open a new board<br>"
+ "Draw a polygon on the top layer<br>"
+ "Change to 8 mils the width of the polygon<br>"
+ "Ensure that the \"Isolate\" parameter of the polygon is = 0<br>"
+ "Change to the layer 41 (tRestrict) and write or draw what you want inside the polygon area<br>"
+ "Run <b>negasilk.ulp</b> (a script is generated)<br><br>"
+ 
+ "Now, you can:<br>"
+ "Either run the script in the final board on the layer of your choice (21)<br>"
+ "or best, run the script in a library for using the result in the board as a component<br><br>"
+ 
+ "<author>Author: Christian Bohrer</author>"
+ ;
+
+ // THIS PROGRAM IS PROVIDED AS IS AND WITHOUT WARRANTY OF ANY KIND, EXPRESSED OR IMPLIED
+ 
+string SilkName="", silkspool="", Header = 
+"Set Wire_Bend 2;\n" + 
+"GRID MM;\n\n";
+
+if (board) board(B){ 
+SilkName = filesetext(B.name, "_.scr");
+}
+
+string Vectors(UL_WIRE W){
+ string h = "";
+ sprintf(h,"WIRE %3.4f (%3.4f %3.4f) (%3.4f %3.4f);\n", 
+ u2mm(W.width), u2mm(W.x1), u2mm(W.y1), u2mm(W.x2), u2mm(W.y2)); 
+ return h;
+}   
+
+///////////////////////////
+ if (board) board(B){    
+  B.signals(S){   
+
+    S.polygons(P) { 
+     P.contours(W){ if(W.layer == 1){silkspool += Vectors(W);}}
+     P.fillings(W){ if(W.layer == 1){silkspool += Vectors(W);}}
+    }
+       
+  }
+ }
+//////////////////////////
+ 
+ silkspool+= "GRID LAST;\n";
+ 
+ output(SilkName){  
+ printf(Header);
+ printf(silkspool);
+ }
+  
